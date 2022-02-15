@@ -12,3 +12,8 @@ My language skills:
 + "What is this?" - C++ (I don't understand this syntax and things like multiinteritance)
 
 How to reach me: Ærþ#5409 (discord) or the only person with *Programmer* role in [H&P discord server](https://discord.gg/Gczp7G6u9W)
+
+![almiriq](https://github.com/AlmiriQ/AlmiriQ/raw/main/gh.jpg)
+
+My waifu:
+![maria-arusu](https://github.com/AlmiriQ/Discord-Maria-Arusu/raw/main/System%CE%B1/data/MariaArusu.webp)
