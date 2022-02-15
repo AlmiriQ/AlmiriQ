@@ -13,6 +13,7 @@ My language skills:
 
 How to reach me: Ærþ#5409 (discord) or the only person with *Programmer* role in [H&P discord server](https://discord.gg/Gczp7G6u9W)
 
+Me:
 ![almiriq](https://github.com/AlmiriQ/AlmiriQ/raw/main/gh.jpg)
 
 My waifu:
