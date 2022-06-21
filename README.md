@@ -11,7 +11,7 @@ My language skills:
 + "I can read & understand this" - Ruby (I was learning it for fun, but not used it), C# (one of my freinds uses it, so I know something from that lang)
 + "What is this?" - C++ (I don't understand this syntax and things like multiinteritance)
 
-How to reach me: Fraxinized Arusu Unit#5301 (discord) or the only person with *Programmer* role in [H&P discord server](https://discord.gg/Gczp7G6u9W)
+How to reach me: Isaac Iwasaki#5301 (discord) or the only person with *Programmer* role in [H&P discord server](https://discord.gg/Gczp7G6u9W)
 
 Me:
 ![almiriq](https://github.com/AlmiriQ/AlmiriQ/raw/main/gh.jpg)
