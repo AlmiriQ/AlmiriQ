@@ -46,8 +46,12 @@ My hardware:
  
 	+ FullHD 60 Hz display that needs replacement :/
 
+
 My software:
 	+ OS: Arch Linux
+ 
 	+ Wayland Compositor: Hyprland (with waybar)
+ 
 	+ Firefox
+ 
 	+ Sublime Text as IDE
