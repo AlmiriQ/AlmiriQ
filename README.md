@@ -2,7 +2,7 @@ Welcome to my GitHub page. Here you can find some projects that I'm trying to do
 
 Maybe later I'll upload some projects to [this awesome organisation](https://github.com/HikkaAndProgrammer), but now I'm doing my personal projects. 
 
-How to reach me: @irpwqv2 (Telegram).
+How to reach me: @irpwqv21 (Telegram).
 
 My language skills:  
   + C (GNU), from 2019 year: I used to write a [VM](https://github.com/AlmiriQ/LIVM) in C, smth like CISC processor but it was fucking shit anyway that was interesting; now going to study in School21  
