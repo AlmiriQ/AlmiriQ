@@ -19,17 +19,17 @@ My language skills:
 My other skills:  
   + Git - 50/50  
   + Soft skills - what are soft skills?  
-  + Linux - oh yeah i use arch btw  
+  + Linux - no arch i use nixos btw
   + Also HTML+CSS but I'm not a designer so yeah
 
 My hardware:  
-  + AMD Ryzen 7 3700 (Matisse, 8-core, 7nm, up to 4.4 GHz, 2019 year)  
-  + Dualrank DDR4 RAM 16GB (1 slot)  
-  + AMD Radeon RX 6800 XT with 16 GB VRAM (yeah ty amd for lots of vram lets fucking run AI locally)  
-  + FullHD 60 Hz display that needs replacement :/  
+  + AMD Ryzen 7 3700 (Matisse, 8-core, 7nm, up to 4.4 GHz, 2019 year)
+  + Dualrank DDR4 RAM 16GB (1 slot)
+  + AMD Radeon RX 6800 XT with 16 GB VRAM (yeah ty amd for lots of vram lets fucking run AI locally)
+  + FullHD 60 Hz display that needs replacement :/
 
 My software:  
-  + OS: Arch Linux  
-  + Wayland Compositor: Hyprland (with waybar)  
+  + OS: NixOS  
+  + DE: KDE  
   + Firefox  
   + Sublime Text as IDE
